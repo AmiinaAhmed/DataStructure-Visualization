@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\3d_1st\\assembly_project\\PlayFairCiphering\\PlayFairCiphering.csproj": {}
+  },
+  "projects": {
+    "D:\\3d_1st\\assembly_project\\PlayFairCiphering\\PlayFairCiphering.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\3d_1st\\assembly_project\\PlayFairCiphering\\PlayFairCiphering.csproj",
+        "projectName": "PlayFairCiphering",
+        "projectPath": "D:\\3d_1st\\assembly_project\\PlayFairCiphering\\PlayFairCiphering.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\3d_1st\\assembly_project\\PlayFairCiphering\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FluentWPF": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[1.2.2-ci879, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[3.0.1-ci879, )"
+            },
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

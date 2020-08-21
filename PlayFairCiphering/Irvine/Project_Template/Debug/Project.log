@@ -1,0 +1,7 @@
+﻿  Assembling main.asm...
+main.asm(66): warning A6001: no return from procedure
+main.asm(66): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(66): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(66): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library D:\3d_1st\assembly_project\PlayFairCiphering\Irvine\Project_Template\Debug\Project.lib and object D:\3d_1st\assembly_project\PlayFairCiphering\Irvine\Project_Template\Debug\Project.exp
+  Project.vcxproj -> D:\3d_1st\assembly_project\PlayFairCiphering\Irvine\Project_Template\Debug\Project.exe
